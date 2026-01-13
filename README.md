@@ -1,16 +1,5 @@
 # icu4x_test
+A Flutter application demonstrating ICU4X integration and internationalization capabilities.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overview
+This project is a Flutter application that showcases the use of ICU4X (International Components for Unicode) for advanced internationalization and localization features.
